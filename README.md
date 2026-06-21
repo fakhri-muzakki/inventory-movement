@@ -6,6 +6,8 @@ A modern Inventory Management System built with Laravel 12 and Filament 4, desig
 
 ## 🚀 Overview
 
+![Dashboard](public/images/Screenshot.png)
+
 This project simulates a real-world inventory system used in internal business operations.
 It focuses on clean architecture, authorization, and practical inventory workflows such as stock in/out tracking.
 
@@ -19,12 +21,14 @@ It focuses on clean architecture, authorization, and practical inventory workflo
 - Automatic SKU generation
 - Product image upload (Cloudinary)
 - Stock & minimum stock tracking
+- Export to excel
 
 ### 🔄 Stock Management
 
 - Stock In / Stock Out system
 - Full stock movement history per product
 - Real-time stock updates
+- Export to excel
 
 ### 🏷️ Category & Supplier Management
 
